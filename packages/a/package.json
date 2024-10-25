@@ -1,0 +1,12 @@
+{
+  "name": "@packages/a",
+  "version": "0.0.0",
+  "scripts": {},
+  "dependencies": {
+    "@graphql-codegen/cli": "^5.0.3",
+    "@graphql-codegen/client-preset": "^4.4.0",
+    "@graphql-codegen/typescript": "^4.1.0",
+    "@graphql-codegen/typescript-resolvers": "^4.3.0",
+    "graphql": "^16.9.0"
+  }
+}

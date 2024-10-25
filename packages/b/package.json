@@ -1,0 +1,11 @@
+{
+  "name": "@packages/a",
+  "version": "0.0.0",
+  "scripts": {
+    "types": "apollo client:codegen types --target=flow --outputFlat"
+  },
+  "dependencies": {
+    "apollo": "^2.25.0",
+    "graphql": "14.7.0"
+  }
+}
